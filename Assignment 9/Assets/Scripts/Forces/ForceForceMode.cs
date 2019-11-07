@@ -2,6 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+
+/* (Christopher Green)
+        * (ForceForceMode)
+        * (Assignment 9)
+        * (This code handles the Force/default forcemode)
+        */
+
 public class ForceForceMode : MonoBehaviour
 {
     public Rigidbody rb;

@@ -4,6 +4,14 @@ using UnityEngine;
 
 public class ImpulseForce : MonoBehaviour
 {
+
+
+    /* (Christopher Green)
+            * (ImpulseForce)
+            * (Assignment 9)
+            * (This code handles the Impulse forcemode)
+            */
+
     public Rigidbody rb;
     private float force = 100;
 

@@ -4,6 +4,13 @@ using UnityEngine;
 
 public class AccelerationForce : MonoBehaviour
 {
+
+    /* (Christopher Green)
+            * (AccelerationForce)
+            * (Assignment 9)
+            * (This code handles the Acceleration forcemode)
+            */
+
     public Rigidbody rb;
     private float force = 100;
 
